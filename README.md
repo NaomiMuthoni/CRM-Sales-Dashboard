@@ -27,6 +27,7 @@ Won opportunities
 Lost opportunities
 Open opportunities
 Win rate
+
 2. Won Revenue
 
 Won revenue is calculated from the Close Value of opportunities marked as Won.
@@ -41,6 +42,7 @@ Total opportunities
 Won opportunities
 Won revenue
 Win rate
+
 4. Product Performance
 
 Products are analyzed based on:
@@ -49,6 +51,7 @@ Number of opportunities
 Won opportunities
 Won revenue
 Win rate
+
 5. Sales Cycle
 
 The sales cycle is calculated as the number of days between the engagement date and close date.
