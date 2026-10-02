@@ -69,20 +69,21 @@ Data Preparation
 
 The data-cleaning process included checking for:
 
-Missing values
-Duplicate records
-Inconsistent categorical values
-Invalid or unusual deal values
-Date inconsistencies
+Missing values,
+Duplicate records,
+Inconsistent categorical values,
+Invalid or unusual deal values,
+Date inconsistencies, and
 Invalid sales-cycle durations
 
 Skills Demonstrated:
+
 Data cleaning
-Exploratory data analysis
-Excel formulas and PivotTables
-Business KPI analysis
-Data visualization
-Power BI dashboard development
+Exploratory data analysis,
+Excel formulas and PivotTables,
+Business KPI analysis,
+Data visualization,
+Power BI dashboard development, and
 Business reporting
 
 Additional calculated fields were created for pipeline status, won revenue, and days to close.
