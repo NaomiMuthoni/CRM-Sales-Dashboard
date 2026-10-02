@@ -76,6 +76,15 @@ Invalid or unusual deal values
 Date inconsistencies
 Invalid sales-cycle durations
 
+Skills Demonstrated:
+Data cleaning
+Exploratory data analysis
+Excel formulas and PivotTables
+Business KPI analysis
+Data visualization
+Power BI dashboard development
+Business reporting
+
 Additional calculated fields were created for pipeline status, won revenue, and days to close.
 
-Key Findings
+
